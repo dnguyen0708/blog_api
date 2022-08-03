@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+textarea {
+  resize: none !important;
+}
+a,a:active{
+  color:black !important;
+}
